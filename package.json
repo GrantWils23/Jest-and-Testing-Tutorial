@@ -16,7 +16,10 @@
     "url": "https://github.com/GrantWils23/Jest-and-Testing-Tutorial/issues"
   },
   "homepage": "https://github.com/GrantWils23/Jest-and-Testing-Tutorial#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
   "dependencies": {
-    "jest": "^27.5.0"
+    "jsdom": "^19.0.0"
   }
 }
