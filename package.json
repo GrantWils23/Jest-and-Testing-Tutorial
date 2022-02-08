@@ -1,0 +1,22 @@
+{
+  "name": "jest-and-testing-tutorial",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrantWils23/Jest-and-Testing-Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrantWils23/Jest-and-Testing-Tutorial/issues"
+  },
+  "homepage": "https://github.com/GrantWils23/Jest-and-Testing-Tutorial#readme",
+  "dependencies": {
+    "jest": "^27.5.0"
+  }
+}
